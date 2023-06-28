@@ -1,0 +1,360 @@
+SWEAR WORD: fucking; COUNT 169
+70 UNIQUE WORDS BEFORE: [('a', 27), ('so', 12), ('i', 10), ('is', 10), ('the', 8), ('thats', 5), ('this', 4), ('my', 4), ('im', 4), ('just', 4), ('you', 3), ('really', 2), ('no', 2), ('one', 2), ('some', 2), ('good', 2), ('every', 2), ('entire', 2), ('was', 2), ('dont', 2), ('even', 2), ('it', 2), ('how', 2), ('its', 2), ('over', 1), ('still', 1), ('serious', 1), ('jesus', 1), ('ill', 1), ('on', 1), ('riot', 1), ('hell', 1), ('same', 1), ('90k', 1), ('u', 1), ('someone', 1), ('any', 1), ('8', 1), ('hearing', 1), ('fan', 1), ('than', 1), ('lil', 1), ('he', 1), ('sheer', 1), ('mad', 1), ('gonna', 1), ('big', 1), ('stupid', 1), ('are', 1), ('holy', 1), ('actually', 1), ('teens', 1), ('7', 1), ('square', 1), ('with', 1), ('id', 1), ('crystal', 1), ('literally', 1), ('if', 1), ('who', 1), ('your', 1), ('lets', 1), ('michigan', 1), ('rad', 1), ('bro', 1), ('that', 1), ('imagine', 1), ('50', 1), ('80', 1), ('absolute', 1)]
+142 UNIQUE WORDS AFTER: [('love', 5), ('legend', 4), ('hate', 3), ('asshole', 3), ('stupid', 3), ('cool', 3), ('time', 2), ('lie', 2), ('word', 2), ('meme', 2), ('amazing', 2), ('epic', 2), ('sick', 2), ('life', 2), ('hell', 2), ('laser', 2), ('me', 2), ('neck', 1), ('300', 1), ('impressive', 1), ('hero', 1), ('laptop', 1), ('present', 1), ('shitty', 1), ('determination', 1), ('terrifying', 1), ('christ', 1), ('kill', 1), ('sharp', 1), ('day', 1), ('fire', 1), ('bathroom', 1), ('yeah', 1), ('golden', 1), ('person', 1), ('much', 1), ('upvotes', 1), ('sense', 1), ('essay', 1), ('irish', 1), ('dumb', 1), ('virus', 1), ('madlad', 1), ('bastard', 1), ('website', 1), ('told', 1), ('1000', 1), ('spoiled', 1), ('faggot', 1), ('cruel', 1), ('17', 1), ('replies', 1), ('relatable', 1), ('tv', 1), ('post', 1), ('million', 1), ('calming', 1), ('stressful', 1), ('cave', 1), ('raged', 1), ('knew', 1), ('original', 1), ('repost', 1), ('hilarious', 1), ('tastic', 1), ('upvote', 1), ('earthquake', 1), ('jealous', 1), ('sure', 1), ('paper', 1), ('did', 1), ('will', 1), ('lit', 1), ('dope', 1), ('mind', 1), ('respect', 1), ('eat', 1), ('fax', 1), ('retarded', 1), ('raise', 1), ('2', 1), ('skull', 1), ('disgusted', 1), ('atrocious', 1), ('teenager', 1), ('little', 1), ('minute', 1), ('shit', 1), ('year', 1), ('pathetic', 1), ('disrespect', 1), ('calc', 1), ('give', 1), ('wild', 1), ('eats', 1), ('wrong', 1), ('die', 1), ('', 1), ('tsunami', 1), ('beautiful', 1), ('simps', 1), ('waterbender', 1), ('got', 1), ('clear', 1), ('scolded', 1), ('pisses', 1), ('play', 1), ('breathing', 1), ('eyelid', 1), ('insane', 1), ('bat', 1), ('ghosts', 1), ('ram', 1), ('stare', 1), ('business', 1), ('olds', 1), ('wierd', 1), ('go', 1), ('metal', 1), ('pervert', 1), ('horrifying', 1), ('system', 1), ('badass', 1), ('test', 1), ('pattern', 1), ('happy', 1), ('about', 1), ('easy', 1), ('panic', 1), ('accurate', 1), ('fun', 1), ('your', 1), ('school', 1), ('golds', 1), ('crusade', 1), ('awards', 1), ('template', 1), ('idiot', 1), ('happened', 1), ('joke', 1), ('champion', 1), ('monster', 1)]
+SWEAR WORD: shit; COUNT 159
+72 UNIQUE WORDS BEFORE: [('holy', 27), ('this', 13), ('that', 10), ('the', 10), ('of', 5), ('a', 5), ('like', 3), ('are', 3), ('and', 3), ('do', 3), ('doing', 2), ('random', 2), ('coolest', 2), ('to', 2), ('some', 2), ('their', 2), ('other', 2), ('funniest', 1), ('sell', 1), ('school', 1), ('thats', 1), ('no', 1), ('real', 1), ('oh', 1), ('fiery', 1), ('lmaooo', 1), ('with', 1), ('level', 1), ('rspeedoflobsters', 1), ('shitty', 1), ('entire', 1), ('here', 1), ('gets', 1), ('getting', 1), ('werent', 1), ('sneeze', 1), ('most', 1), ('jack', 1), ('got', 1), ('me', 1), ('lil', 1), ('ex', 1), ('bat', 1), ('us', 1), ('buy', 1), ('but', 1), ('is', 1), ('well', 1), ('factorising', 1), ('fancy', 1), ('fucking', 1), ('aw', 1), ('champion', 1), ('stupid', 1), ('working', 1), ('oly', 1), ('useless', 1), ('did', 1), ('my', 1), ('be', 1), ('same', 1), ('ah', 1), ('good', 1), ('paranormal', 1), ('crime', 1), ('cool', 1), ('as', 1), ('weird', 1), ('idiocracy', 1), ('classmates', 1), ('becoming', 1), ('read', 1)]
+78 UNIQUE WORDS AFTER: [('i', 12), ('is', 7), ('thats', 6), ('on', 4), ('this', 4), ('out', 4), ('that', 4), ('im', 3), ('so', 3), ('when', 3), ('was', 3), ('in', 3), ('right', 3), ('lol', 3), ('dude', 3), ('we', 2), ('to', 2), ('about', 2), ('year', 2), ('from', 2), ('at', 2), ('you', 2), ('next', 2), ('fires', 1), ('pisses', 1), ('', 1), ('all', 1), ('makes', 1), ('sorry', 1), ('meme', 1), ('post', 1), ('exam', 1), ('hes', 1), ('any', 1), ('its', 1), ('she', 1), ('without', 1), ('for', 1), ('looks', 1), ('ever', 1), ('chair', 1), ('whenever', 1), ('the', 1), ('hed', 1), ('and', 1), ('will', 1), ('cringy', 1), ('grammar', 1), ('bro', 1), ('guys', 1), ('hurts', 1), ('crazy', 1), ('part', 1), ('me', 1), ('like', 1), ('if', 1), ('damn', 1), ('id', 1), ('together', 1), ('jobs', 1), ('gang', 1), ('posh', 1), ('bout', 1), ('my', 1), ('com', 1), ('as', 1), ('umm', 1), ('man', 1), ('arent', 1), ('doesnt', 1), ('3000x', 1), ('ive', 1), ('lego', 1), ('nigga', 1), ('why', 1), ('instead', 1), ('again', 1), ('congrats', 1)]
+SWEAR WORD: class; COUNT 126
+51 UNIQUE WORDS BEFORE: [('the', 25), ('in', 13), ('my', 10), ('online', 6), ('a', 6), ('history', 5), ('math', 4), ('to', 3), ('his', 3), ('entire', 3), ('of', 3), ('leave', 2), ('whole', 2), ('before', 2), ('grade', 2), ('health', 2), ('finance', 1), ('lang', 1), ('on', 1), ('literature', 1), ('algebra', 1), ('cbrn', 1), ('every', 1), ('last', 1), ('firefighting', 1), ('engineering', 1), ('thats', 1), ('make', 1), ('during', 1), ('hour', 1), ('2hour', 1), ('one', 1), ('our', 1), ('best', 1), ('her', 1), ('same', 1), ('maths', 1), ('skip', 1), ('lower', 1), ('french', 1), ('quietest', 1), ('day', 1), ('teh', 1), ('next', 1), ('stem', 1), ('im', 1), ('fellow', 1), ('through', 1), ('or', 1), ('new', 1), ('cutting', 1)]
+68 UNIQUE WORDS AFTER: [('clown', 8), ('and', 7), ('he', 5), ('with', 4), ('is', 4), ('clowns', 3), ('in', 3), ('', 3), ('for', 3), ('who', 3), ('of', 3), ('ends', 3), ('but', 3), ('my', 2), ('the', 2), ('while', 2), ('period', 2), ('was', 2), ('saying', 1), ('board', 1), ('essays', 1), ('soooo', 1), ('many', 1), ('till', 1), ('cause', 1), ('each', 1), ('ahaha', 1), ('wouldnt', 1), ('joins', 1), ('they', 1), ('more', 1), ('doesnt', 1), ('instead', 1), ('people', 1), ('opened', 1), ('rn', 1), ('must', 1), ('nervous', 1), ('that', 1), ('its', 1), ('lol', 1), ('when', 1), ('next', 1), ('interesting', 1), ('copied', 1), ('45', 1), ('one', 1), ('again', 1), ('raises', 1), ('early', 1), ('to', 1), ('ive', 1), ('where', 1), ('whenever', 1), ('meanwhile', 1), ('starts', 1), ('teachers', 1), ('theyve', 1), ('girls', 1), ('sign', 1), ('trip', 1), ('die', 1), ('you', 1), ('got', 1), ('on', 1), ('working', 1), ('bully', 1), ('stole', 1)]
+SWEAR WORD: fuck; COUNT 122
+37 UNIQUE WORDS BEFORE: [('the', 26), ('as', 9), ('holy', 5), ('a', 5), ('go', 5), ('dont', 4), ('oh', 3), ('but', 3), ('me', 2), ('absolute', 2), ('and', 2), ('to', 2), ('arms', 1), ('ow', 1), ('would', 1), ('it', 1), ('singel', 1), ('flying', 1), ('say', 1), ('haw', 1), ('toast', 1), ('jesus', 1), ('gonna', 1), ('dude', 1), ('you', 1), ('12', 1), ('debt', 1), ('excitement', 1), ('actual', 1), ('bluepubed', 1), ('well', 1), ('like', 1), ('right', 1), ('except', 1), ('', 1), ('ya', 1), ('congratulations', 1)]
+52 UNIQUE WORDS AFTER: [('you', 9), ('is', 6), ('that', 4), ('off', 4), ('i', 4), ('with', 4), ('those', 3), ('does', 3), ('do', 3), ('yourself', 3), ('out', 2), ('yeah', 2), ('im', 2), ('this', 2), ('', 2), ('u', 2), ('thats', 2), ('up', 2), ('did', 2), ('youre', 2), ('it', 2), ('yes', 2), ('cancer', 2), ('some', 1), ('put', 1), ('her', 1), ('can', 1), ('1010', 1), ('gave', 1), ('china', 1), ('how', 1), ('congrats', 1), ('inhales', 1), ('laughs', 1), ('youhttpswwwredditcomrmemescommentse6svt3thankyoutothekidswhodothatutmmediumandroidappamputmsourceshare', 1), ('they', 1), ('reddit', 1), ('uspez', 1), ('ive', 1), ('currently', 1), ('dude', 1), ('theyre', 1), ('me', 1), ('comments', 1), ('yerself', 1), ('he', 1), ('have', 1), ('if', 1), ('your', 1), ('them', 1), ('ton', 1), ('and', 1)]
+SWEAR WORD: damn; COUNT 75
+21 UNIQUE WORDS BEFORE: [('god', 6), ('a', 3), ('but', 2), ('the', 2), ('you', 2), ('though', 1), ('these', 1), ('them', 1), ('some', 1), ('disappointed', 1), ('best', 1), ('hot', 1), ('so', 1), ('merch', 1), ('be', 1), ('shit', 1), ('is', 1), ('technic', 1), ('like', 1), ('those', 1), ('oh', 1)]
+45 UNIQUE WORDS AFTER: [('you', 8), ('i', 6), ('thats', 5), ('dude', 4), ('', 2), ('proud', 2), ('son', 1), ('boy', 1), ('hope', 1), ('kids', 1), ('fiddle', 1), ('me', 1), ('video', 1), ('self', 1), ('imagine', 1), ('also', 1), ('your', 1), ('boss', 1), ('was', 1), ('picture', 1), ('dog', 1), ('wish', 1), ('one', 1), ('those', 1), ('they', 1), ('billionaire', 1), ('absolute', 1), ('im', 1), ('that', 1), ('surely', 1), ('wouldnt', 1), ('whippersnappers', 1), ('man', 1), ('younguns', 1), ('thing', 1), ('bookers', 1), ('bro', 1), ('god', 1), ('mate', 1), ('now', 1), ('it', 1), ('know', 1), ('time', 1), ('nice', 1), ('bastardway', 1)]
+SWEAR WORD: hell; COUNT 45
+16 UNIQUE WORDS BEFORE: [('as', 8), ('the', 8), ('like', 3), ('a', 2), ('fucking', 2), ('in', 1), ('amazing', 1), ('thinking', 1), ('me', 1), ('squirrel', 1), ('bros', 1), ('cuz', 1), ('all', 1), ('or', 1), ('one', 1), ('mean', 1)]
+24 UNIQUE WORDS AFTER: [('yeah', 8), ('of', 3), ('ya', 2), ('did', 2), ('fucking', 1), ('doesnt', 1), ('compared', 1), ('nah', 1), ('should', 1), ('every', 1), ('here', 1), ('but', 1), ('no', 1), ('isnt', 1), ('save', 1), ('this', 1), ('id', 1), ('do', 1), ('was', 1), ('the', 1), ('punch', 1), ('trust', 1), ('if', 1), ('i', 1)]
+SWEAR WORD: ass; COUNT 30
+22 UNIQUE WORDS BEFORE: [('his', 5), ('your', 3), ('my', 2), ('the', 2), ('rude', 1), ('fine', 1), ('shy', 1), ('you', 1), ('lazy', 1), ('bad', 1), ('ugly', 1), ('broke', 1), ('stupid', 1), ('handwriting', 1), ('nasty', 1), ('not', 1), ('secret', 1), ('get', 1), ('those', 1), ('dumb', 1), ('tiny', 1), ('good', 1)]
+20 UNIQUE WORDS AFTER: [('juice', 3), ('but', 2), ('beat', 2), ('juices', 2), ('watching', 1), ('lady', 1), ('instead', 1), ('by', 1), ('i', 1), ('for', 1), ('hurts', 1), ('dinosaur', 1), ('about', 1), ('town', 1), ('showers', 1), ('kicked', 1), ('towel', 1), ('did', 1), ('bottle', 1), ('buttery', 1)]
+SWEAR WORD: bitch; COUNT 22
+8 UNIQUE WORDS BEFORE: [('a', 14), ('this', 1), ('that', 1), ('you', 1), ('total', 1), ('giant', 1), ('crazy', 1), ('the', 1)]
+12 UNIQUE WORDS AFTER: [('you', 3), ('and', 2), ('did', 2), ('in', 1), ('is', 1), ('if', 1), ('im', 1), ('she', 1), ('self', 1), ('but', 1), ('thought', 1), ('to', 1)]
+SWEAR WORD: classes; COUNT 22
+13 UNIQUE WORDS BEFORE: [('online', 8), ('my', 2), ('to', 2), ('some', 1), ('two', 1), ('level', 1), ('many', 1), ('having', 1), ('these', 1), ('all', 1), ('cancelled', 1), ('top', 1), ('6', 1)]
+17 UNIQUE WORDS AFTER: [('on', 2), ('are', 1), ('free', 1), ('lowered', 1), ('which', 1), ('with', 1), ('we', 1), ('im', 1), ('where', 1), ('through', 1), ('should', 1), ('i', 1), ('to', 1), ('though', 1), ('till', 1), ('full', 1), ('end', 1)]
+SWEAR WORD: classmates; COUNT 19
+9 UNIQUE WORDS BEFORE: [('my', 6), ('his', 4), ('your', 3), ('our', 1), ('their', 1), ('and', 1), ('him', 1), ('hate', 1), ('fellow', 1)]
+17 UNIQUE WORDS AFTER: [('i', 2), ('would', 2), ('', 1), ('now', 1), ('knew', 1), ('had', 1), ('despite', 1), ('who', 1), ('for', 1), ('in', 1), ('are', 1), ('during', 1), ('he', 1), ('not', 1), ('my', 1), ('talk', 1), ('shit', 1)]
+SWEAR WORD: fucked; COUNT 18
+17 UNIQUE WORDS BEFORE: [('really', 2), ('so', 1), ('you', 1), ('this', 1), ('i', 1), ('thats', 1), ('be', 1), ('how', 1), ('have', 1), ('im', 1), ('got', 1), ('pretty', 1), ('as', 1), ('totally', 1), ('is', 1), ('friend', 1), ('gets', 1)]
+9 UNIQUE WORDS AFTER: [('up', 6), ('me', 2), ('her', 1), ('she', 1), ('in', 1), ('are', 1), ('its', 1), ('someone', 1), ('over', 1)]
+SWEAR WORD: fuckin; COUNT 17
+12 UNIQUE WORDS BEFORE: [('a', 3), ('so', 2), ('the', 2), ('been', 1), ('pretty', 1), ('2020', 1), ('90s', 1), ('no', 1), ('really', 1), ('thats', 1), ('it', 1), ('load', 1)]
+16 UNIQUE WORDS AFTER: [('cool', 2), ('proud', 1), ('yolked', 1), ('terrifying', 1), ('great', 1), ('future', 1), ('book', 1), ('song', 1), ('blows', 1), ('padlock', 1), ('8', 1), ('legend', 1), ('big', 1), ('asshole', 1), ('idiot', 1), ('load', 1)]
+SWEAR WORD: asshole; COUNT 15
+9 UNIQUE WORDS BEFORE: [('an', 5), ('fucking', 3), ('say', 1), ('big', 1), ('a', 1), ('rgb', 1), ('cynical', 1), ('total', 1), ('fuckin', 1)]
+7 UNIQUE WORDS AFTER: [('and', 2), ('move', 2), ('at', 1), ('who', 1), ('98', 1), ('necessary', 1), ('for', 1)]
+SWEAR WORD: classroom; COUNT 14
+6 UNIQUE WORDS BEFORE: [('the', 7), ('a', 2), ('google', 2), ('small', 1), ('to', 1), ('her', 1)]
+10 UNIQUE WORDS AFTER: [('and', 2), ('he', 1), ('never', 1), ('study', 1), ('about', 1), ('at', 1), ('whiteboard', 1), ('page', 1), ('with', 1), ('during', 1)]
+SWEAR WORD: badass; COUNT 13
+7 UNIQUE WORDS BEFORE: [('pretty', 3), ('most', 3), ('a', 3), ('absolute', 1), ('so', 1), ('fucking', 1), ('and', 1)]
+3 UNIQUE WORDS AFTER: [('picture', 6), ('designer', 1), ('life', 1)]
+SWEAR WORD: bullshit; COUNT 12
+8 UNIQUE WORDS BEFORE: [('this', 3), ('its', 2), ('less', 1), ('matching', 1), ('fetched', 1), ('of', 1), ('pretty', 1), ('was', 1)]
+7 UNIQUE WORDS AFTER: [('anyway', 1), ('been', 1), ('reason', 1), ('go', 1), ('that', 1), ('or', 1), ('pricey', 1)]
+SWEAR WORD: passed; COUNT 11
+10 UNIQUE WORDS BEFORE: [('i', 2), ('fear', 1), ('minutesi', 1), ('and', 1), ('she', 1), ('pug', 1), ('just', 1), ('friend', 1), ('kids', 1), ('too', 1)]
+6 UNIQUE WORDS AFTER: [('out', 3), ('away', 2), ('through', 1), ('math', 1), ('i', 1), ('glad', 1)]
+SWEAR WORD: hello; COUNT 10
+2 UNIQUE WORDS BEFORE: [('goes', 1), ('old', 1)]
+9 UNIQUE WORDS AFTER: [('fellow', 2), ('gamers', 1), ('everyone', 1), ('mister', 1), ('professor', 1), ('ms', 1), ('friends', 1), ('leonard', 1), ('is', 1)]
+SWEAR WORD: shitty; COUNT 9
+5 UNIQUE WORDS BEFORE: [('a', 4), ('some', 1), ('that', 1), ('fucking', 1), ('are', 1)]
+9 UNIQUE WORDS AFTER: [('teachers', 1), ('jimmy', 1), ('im', 1), ('day', 1), ('shit', 1), ('drawing', 1), ('adults', 1), ('now', 1), ('reaction', 1)]
+SWEAR WORD: pussy; COUNT 8
+6 UNIQUE WORDS BEFORE: [('some', 2), ('word', 2), ('the', 1), ('her', 1), ('a', 1), ('and', 1)]
+6 UNIQUE WORDS AFTER: [('for', 1), ('', 1), ('was', 1), ('and', 1), ('to', 1), ('isnt', 1)]
+SWEAR WORD: jesus; COUNT 8
+5 UNIQUE WORDS BEFORE: [('edit', 1), ('karma', 1), ('chairs', 1), ('for', 1), ('to', 1)]
+5 UNIQUE WORDS AFTER: [('christ', 3), ('fucking', 1), ('theres', 1), ('fuck', 1), ('crist', 1)]
+SWEAR WORD: dick; COUNT 7
+5 UNIQUE WORDS BEFORE: [('a', 2), ('my', 2), ('own', 1), ('big', 1), ('', 1)]
+6 UNIQUE WORDS AFTER: [('move', 2), ('its', 1), ('thing', 1), ('and', 1), ('energy', 1), ('in', 1)]
+SWEAR WORD: pass; COUNT 7
+5 UNIQUE WORDS BEFORE: [('to', 2), ('nword', 1), ('will', 1), ('and', 1), ('we', 1)]
+5 UNIQUE WORDS AFTER: [('the', 3), ('calc', 1), ('i', 1), ('those', 1), ('away', 1)]
+SWEAR WORD: pissed; COUNT 7
+5 UNIQUE WORDS BEFORE: [('got', 3), ('get', 1), ('pretty', 1), ('you', 1), ('be', 1)]
+6 UNIQUE WORDS AFTER: [('and', 2), ('in', 1), ('so', 1), ('on', 1), ('when', 1), ('if', 1)]
+SWEAR WORD: massive; COUNT 6
+4 UNIQUE WORDS BEFORE: [('a', 3), ('look', 1), ('much', 1), ('was', 1)]
+6 UNIQUE WORDS AFTER: [('heart', 1), ('in', 1), ('respect', 1), ('number', 1), ('and', 1), ('gg', 1)]
+SWEAR WORD: glasses; COUNT 6
+5 UNIQUE WORDS BEFORE: [('with', 2), ('the', 1), ('nice', 1), ('and', 1), ('needs', 1)]
+5 UNIQUE WORDS AFTER: [('compliment', 1), ('was', 1), ('probably', 1), ('lookin', 1), ('for', 1)]
+SWEAR WORD: goddamn; COUNT 6
+5 UNIQUE WORDS BEFORE: [('a', 2), ('this', 1), ('full', 1), ('so', 1), ('like', 1)]
+6 UNIQUE WORDS AFTER: [('it', 1), ('essay', 1), ('veterinarian', 1), ('shame', 1), ('sad', 1), ('what', 1)]
+SWEAR WORD: assume; COUNT 6
+4 UNIQUE WORDS BEFORE: [('to', 2), ('and', 2), ('would', 1), ('you', 1)]
+5 UNIQUE WORDS AFTER: [('that', 2), ('about', 1), ('she', 1), ('you', 1), ('thats', 1)]
+SWEAR WORD: nutshell; COUNT 6
+2 UNIQUE WORDS BEFORE: [('a', 5), ('in', 1)]
+0 UNIQUE WORDS AFTER: []
+SWEAR WORD: shell; COUNT 5
+5 UNIQUE WORDS BEFORE: [('you', 1), ('bang', 1), ('least', 1), ('future', 1), ('its', 1)]
+5 UNIQUE WORDS AFTER: [('realise', 1), ('single', 1), ('have', 1), ('soon', 1), ('', 1)]
+SWEAR WORD: fucks; COUNT 5
+3 UNIQUE WORDS BEFORE: [('dumb', 2), ('it', 1), ('she', 1)]
+5 UNIQUE WORDS AFTER: [('like', 1), ('took', 1), ('obviously', 1), ('me', 1), ('him', 1)]
+SWEAR WORD: pisses; COUNT 4
+4 UNIQUE WORDS BEFORE: [('shit', 1), ('this', 1), ('usually', 1), ('fucking', 1)]
+2 UNIQUE WORDS AFTER: [('me', 3), ('them', 1)]
+SWEAR WORD: classmate; COUNT 4
+4 UNIQUE WORDS BEFORE: [('the', 1), ('a', 1), ('fellow', 1), ('my', 1)]
+4 UNIQUE WORDS AFTER: [('who', 1), ('asked', 1), ('rip', 1), ('back', 1)]
+SWEAR WORD: assuming; COUNT 4
+4 UNIQUE WORDS BEFORE: [('stop', 1), ('up', 1), ('op', 1), ('one', 1)]
+3 UNIQUE WORDS AFTER: [('it', 2), ('about', 1), ('that', 1)]
+SWEAR WORD: dumbass; COUNT 4
+3 UNIQUE WORDS BEFORE: [('my', 2), ('our', 1), ('some', 1)]
+4 UNIQUE WORDS AFTER: [('thought', 1), ('sports', 1), ('that', 1), ('in', 1)]
+SWEAR WORD: assholes; COUNT 3
+3 UNIQUE WORDS BEFORE: [('are', 1), ('arent', 1), ('the', 1)]
+2 UNIQUE WORDS AFTER: [('but', 1), ('in', 1)]
+SWEAR WORD: shits; COUNT 3
+3 UNIQUE WORDS BEFORE: [('ago', 1), ('that', 1), ('little', 1)]
+3 UNIQUE WORDS AFTER: [('scary', 1), ('hard', 1), ('who', 1)]
+SWEAR WORD: bitches; COUNT 3
+3 UNIQUE WORDS BEFORE: [('here', 1), ('business', 1), ('those', 1)]
+1 UNIQUE WORDS AFTER: [('dont', 1)]
+SWEAR WORD: classic; COUNT 3
+3 UNIQUE WORDS BEFORE: [('a', 1), ('the', 1), ('day', 1)]
+3 UNIQUE WORDS AFTER: [('template', 1), ('way', 1), ('prove', 1)]
+SWEAR WORD: passing; COUNT 3
+3 UNIQUE WORDS BEFORE: [('and', 1), ('strangers', 1), ('while', 1)]
+2 UNIQUE WORDS AFTER: [('with', 1), ('but', 1)]
+SWEAR WORD: assignment; COUNT 3
+3 UNIQUE WORDS BEFORE: [('an', 1), ('the', 1), ('school', 1)]
+3 UNIQUE WORDS AFTER: [('since', 1), ('her', 1), ('partners', 1)]
+SWEAR WORD: passion; COUNT 3
+3 UNIQUE WORDS BEFORE: [('burning', 1), ('your', 1), ('my', 1)]
+3 UNIQUE WORDS AFTER: [('unlike', 1), ('and', 1), ('for', 1)]
+SWEAR WORD: passengers; COUNT 3
+2 UNIQUE WORDS BEFORE: [('the', 2), ('your', 1)]
+1 UNIQUE WORDS AFTER: [('skull', 1)]
+SWEAR WORD: hella; COUNT 2
+2 UNIQUE WORDS BEFORE: [('was', 1), ('thats', 1)]
+2 UNIQUE WORDS AFTER: [('confused', 1), ('detailed', 1)]
+SWEAR WORD: mass; COUNT 2
+2 UNIQUE WORDS BEFORE: [('', 1), ('putrescent', 1)]
+2 UNIQUE WORDS AFTER: [('infanticide', 1), ('a', 1)]
+SWEAR WORD: shitting; COUNT 2
+1 UNIQUE WORDS BEFORE: [('stop', 1)]
+2 UNIQUE WORDS AFTER: [('me', 1), ('thousands', 1)]
+SWEAR WORD: glass; COUNT 2
+2 UNIQUE WORDS BEFORE: [('a', 1), ('shattered', 1)]
+2 UNIQUE WORDS AFTER: [('of', 1), ('before', 1)]
+SWEAR WORD: classrooms; COUNT 2
+2 UNIQUE WORDS BEFORE: [('languages', 1), ('google', 1)]
+2 UNIQUE WORDS AFTER: [('were', 1), ('and', 1)]
+SWEAR WORD: damnit; COUNT 2
+0 UNIQUE WORDS BEFORE: []
+1 UNIQUE WORDS AFTER: [('were', 1)]
+SWEAR WORD: bastard; COUNT 2
+2 UNIQUE WORDS BEFORE: [('fucking', 1), ('sneaky', 1)]
+1 UNIQUE WORDS AFTER: [('have', 1)]
+SWEAR WORD: assert; COUNT 2
+1 UNIQUE WORDS BEFORE: [('to', 2)]
+1 UNIQUE WORDS AFTER: [('dominance', 2)]
+SWEAR WORD: fucken; COUNT 2
+1 UNIQUE WORDS BEFORE: [('just', 1)]
+2 UNIQUE WORDS AFTER: [('legend', 1), ('went', 1)]
+SWEAR WORD: assumed; COUNT 2
+2 UNIQUE WORDS BEFORE: [('and', 1), ('i', 1)]
+2 UNIQUE WORDS AFTER: [('that', 1), ('everybody', 1)]
+SWEAR WORD: bitchass; COUNT 2
+1 UNIQUE WORDS BEFORE: [('my', 2)]
+1 UNIQUE WORDS AFTER: [('friend', 2)]
+SWEAR WORD: motherfucker; COUNT 2
+2 UNIQUE WORDS BEFORE: [('yesterday', 1), ('oh', 1)]
+1 UNIQUE WORDS AFTER: [('better', 1)]
+SWEAR WORD: dicks; COUNT 2
+2 UNIQUE WORDS BEFORE: [('big', 1), ('your', 1)]
+2 UNIQUE WORDS AFTER: [('i', 1), ('away', 1)]
+SWEAR WORD: passionate; COUNT 2
+2 UNIQUE WORDS BEFORE: [('aware', 1), ('im', 1)]
+2 UNIQUE WORDS AFTER: [('accepting', 1), ('about', 1)]
+SWEAR WORD: saturday; COUNT 2
+2 UNIQUE WORDS BEFORE: [('its', 1), ('on', 1)]
+2 UNIQUE WORDS AFTER: [('2020', 1), ('lol', 1)]
+SWEAR WORD: dicked; COUNT 2
+2 UNIQUE WORDS BEFORE: [('blue', 1), ('chalk', 1)]
+1 UNIQUE WORDS AFTER: [('around', 2)]
+SWEAR WORD: shitheads; COUNT 1
+1 UNIQUE WORDS BEFORE: [('those', 1)]
+1 UNIQUE WORDS AFTER: [('are', 1)]
+SWEAR WORD: damned; COUNT 1
+1 UNIQUE WORDS BEFORE: [('this', 1)]
+1 UNIQUE WORDS AFTER: [('beautiful', 1)]
+SWEAR WORD: motherfucking; COUNT 1
+1 UNIQUE WORDS BEFORE: [('the', 1)]
+1 UNIQUE WORDS AFTER: [('throat', 1)]
+SWEAR WORD: dumbfuckery; COUNT 1
+1 UNIQUE WORDS BEFORE: [('and', 1)]
+1 UNIQUE WORDS AFTER: [('ruins', 1)]
+SWEAR WORD: assisting; COUNT 1
+1 UNIQUE WORDS BEFORE: [('and', 1)]
+1 UNIQUE WORDS AFTER: [('with', 1)]
+SWEAR WORD: assist; COUNT 1
+1 UNIQUE WORDS BEFORE: [('to', 1)]
+1 UNIQUE WORDS AFTER: [('with', 1)]
+SWEAR WORD: massacre; COUNT 1
+1 UNIQUE WORDS BEFORE: [('square', 1)]
+1 UNIQUE WORDS AFTER: [('', 1)]
+SWEAR WORD: compass; COUNT 1
+1 UNIQUE WORDS BEFORE: [('political', 1)]
+1 UNIQUE WORDS AFTER: [('meme', 1)]
+SWEAR WORD: parse; COUNT 1
+1 UNIQUE WORDS BEFORE: [('to', 1)]
+0 UNIQUE WORDS AFTER: []
+SWEAR WORD: refrigeration; COUNT 1
+1 UNIQUE WORDS BEFORE: [('vance', 1)]
+0 UNIQUE WORDS AFTER: []
+SWEAR WORD: dickheads; COUNT 1
+1 UNIQUE WORDS BEFORE: [('not', 1)]
+0 UNIQUE WORDS AFTER: []
+SWEAR WORD: shitter; COUNT 1
+1 UNIQUE WORDS BEFORE: [('dumb', 1)]
+1 UNIQUE WORDS AFTER: [('i', 1)]
+SWEAR WORD: bastardtake; COUNT 1
+1 UNIQUE WORDS BEFORE: [('you', 1)]
+1 UNIQUE WORDS AFTER: [('this', 1)]
+SWEAR WORD: punkass; COUNT 1
+1 UNIQUE WORDS BEFORE: [('a', 1)]
+1 UNIQUE WORDS AFTER: [('corporal', 1)]
+SWEAR WORD: dickbaggery; COUNT 1
+1 UNIQUE WORDS BEFORE: [('same', 1)]
+1 UNIQUE WORDS AFTER: [('when', 1)]
+SWEAR WORD: asseslt; COUNT 1
+1 UNIQUE WORDS BEFORE: [('his', 1)]
+0 UNIQUE WORDS AFTER: []
+SWEAR WORD: assault; COUNT 1
+1 UNIQUE WORDS BEFORE: [('sexual', 1)]
+1 UNIQUE WORDS AFTER: [('so', 1)]
+SWEAR WORD: goddamnit; COUNT 1
+1 UNIQUE WORDS BEFORE: [('17', 1)]
+1 UNIQUE WORDS AFTER: [('shouldnt', 1)]
+SWEAR WORD: sassy; COUNT 1
+1 UNIQUE WORDS BEFORE: [('very', 1)]
+1 UNIQUE WORDS AFTER: [('latina', 1)]
+SWEAR WORD: arse; COUNT 1
+1 UNIQUE WORDS BEFORE: [('your', 1)]
+1 UNIQUE WORDS AFTER: [('and', 1)]
+SWEAR WORD: assigned; COUNT 1
+1 UNIQUE WORDS BEFORE: [('got', 1)]
+1 UNIQUE WORDS AFTER: [('stuff', 1)]
+SWEAR WORD: classs; COUNT 1
+1 UNIQUE WORDS BEFORE: [('my', 1)]
+1 UNIQUE WORDS AFTER: [('case', 1)]
+SWEAR WORD: compassionate; COUNT 1
+1 UNIQUE WORDS BEFORE: [('is', 1)]
+1 UNIQUE WORDS AFTER: [('about', 1)]
+SWEAR WORD: bigass; COUNT 1
+1 UNIQUE WORDS BEFORE: [('a', 1)]
+1 UNIQUE WORDS AFTER: [('walking', 1)]
+SWEAR WORD: headass; COUNT 1
+1 UNIQUE WORDS BEFORE: [('computer', 1)]
+1 UNIQUE WORDS AFTER: [('time', 1)]
+SWEAR WORD: shithead; COUNT 1
+1 UNIQUE WORDS BEFORE: [('a', 1)]
+1 UNIQUE WORDS AFTER: [('and', 1)]
+SWEAR WORD: bassboosted; COUNT 1
+1 UNIQUE WORDS BEFORE: [('but', 1)]
+1 UNIQUE WORDS AFTER: [('and', 1)]
+SWEAR WORD: assistant; COUNT 1
+1 UNIQUE WORDS BEFORE: [('shop', 1)]
+1 UNIQUE WORDS AFTER: [('but', 1)]
+SWEAR WORD: passive; COUNT 1
+1 UNIQUE WORDS BEFORE: [('very', 1)]
+1 UNIQUE WORDS AFTER: [('aggressive', 1)]
+SWEAR WORD: fuckk; COUNT 1
+0 UNIQUE WORDS BEFORE: []
+1 UNIQUE WORDS AFTER: [('this', 1)]
+SWEAR WORD: assult; COUNT 1
+1 UNIQUE WORDS BEFORE: [('ukrainian', 1)]
+1 UNIQUE WORDS AFTER: [('rifle', 1)]
+SWEAR WORD: whore; COUNT 1
+1 UNIQUE WORDS BEFORE: [('again', 1)]
+0 UNIQUE WORDS AFTER: []
+SWEAR WORD: douglass; COUNT 1
+1 UNIQUE WORDS BEFORE: [('stoneman', 1)]
+1 UNIQUE WORDS AFTER: [('isnt', 1)]
+SWEAR WORD: sawgrass; COUNT 1
+1 UNIQUE WORDS BEFORE: [('a', 1)]
+1 UNIQUE WORDS AFTER: [('middle', 1)]
+SWEAR WORD: turds; COUNT 1
+1 UNIQUE WORDS BEFORE: [('little', 1)]
+0 UNIQUE WORDS AFTER: []
+SWEAR WORD: motherfuckrr; COUNT 1
+1 UNIQUE WORDS BEFORE: [('crazy', 1)]
+1 UNIQUE WORDS AFTER: [('you', 1)]
+SWEAR WORD: dicking; COUNT 1
+1 UNIQUE WORDS BEFORE: [('was', 1)]
+1 UNIQUE WORDS AFTER: [('around', 1)]
+SWEAR WORD: assumption; COUNT 1
+1 UNIQUE WORDS BEFORE: [('the', 1)]
+1 UNIQUE WORDS AFTER: [('my', 1)]
+SWEAR WORD: bastards; COUNT 1
+1 UNIQUE WORDS BEFORE: [('those', 1)]
+1 UNIQUE WORDS AFTER: [('eat', 1)]
+SWEAR WORD: fucker; COUNT 1
+1 UNIQUE WORDS BEFORE: [('dead', 1)]
+0 UNIQUE WORDS AFTER: []
+SWEAR WORD: embarrassment; COUNT 1
+1 UNIQUE WORDS BEFORE: [('the', 1)]
+1 UNIQUE WORDS AFTER: [('of', 1)]
+SWEAR WORD: selfrighteous; COUNT 1
+1 UNIQUE WORDS BEFORE: [('lame', 1)]
+1 UNIQUE WORDS AFTER: [('byzantine', 1)]
+SWEAR WORD: bitchslapped; COUNT 1
+1 UNIQUE WORDS BEFORE: [('get', 1)]
+1 UNIQUE WORDS AFTER: [('by', 1)]
+SWEAR WORD: classwell; COUNT 1
+1 UNIQUE WORDS BEFORE: [('every', 1)]
+1 UNIQUE WORDS AFTER: [('and', 1)]
+SWEAR WORD: madlass; COUNT 1
+1 UNIQUE WORDS BEFORE: [('the', 1)]
+1 UNIQUE WORDS AFTER: [('actually', 1)]
+SWEAR WORD: dickwads; COUNT 1
+1 UNIQUE WORDS BEFORE: [('yelpcriticwannabe', 1)]
+0 UNIQUE WORDS AFTER: []
+SWEAR WORD: arsey; COUNT 1
+1 UNIQUE WORDS BEFORE: [('really', 1)]
+1 UNIQUE WORDS AFTER: [('calls', 1)]
+SWEAR WORD: assembly; COUNT 1
+1 UNIQUE WORDS BEFORE: [('after', 1)]
+1 UNIQUE WORDS AFTER: [('the', 1)]
+SWEAR WORD: dumbfucks; COUNT 1
+1 UNIQUE WORDS BEFORE: [('two', 1)]
+1 UNIQUE WORDS AFTER: [('came', 1)]
+SWEAR WORD: bloody; COUNT 1
+1 UNIQUE WORDS BEFORE: [('shoving', 1)]
+1 UNIQUE WORDS AFTER: [('tamponspaper', 1)]
+SWEAR WORD: shittiest; COUNT 1
+1 UNIQUE WORDS BEFORE: [('the', 1)]
+1 UNIQUE WORDS AFTER: [('stem', 1)]
+SWEAR WORD: classyeah; COUNT 1
+1 UNIQUE WORDS BEFORE: [('science', 1)]
+1 UNIQUE WORDS AFTER: [('the', 1)]
+SWEAR WORD: jackshit; COUNT 1
+1 UNIQUE WORDS BEFORE: [('do', 1)]
+1 UNIQUE WORDS AFTER: [('about', 1)]
+SWEAR WORD: passenger; COUNT 1
+1 UNIQUE WORDS BEFORE: [('a', 1)]
+0 UNIQUE WORDS AFTER: []
+SWEAR WORD: assistance; COUNT 1
+1 UNIQUE WORDS BEFORE: [('medical', 1)]
+1 UNIQUE WORDS AFTER: [('is', 1)]
+SWEAR WORD: classics; COUNT 1
+1 UNIQUE WORDS BEFORE: [('a', 1)]
+1 UNIQUE WORDS AFTER: [('car', 1)]
+SWEAR WORD: classfunny; COUNT 1
+0 UNIQUE WORDS BEFORE: []
+1 UNIQUE WORDS AFTER: [('kid', 1)]
+SWEAR WORD: piss; COUNT 1
+1 UNIQUE WORDS BEFORE: [('even', 1)]
+1 UNIQUE WORDS AFTER: [('and', 1)]
+SWEAR WORD: congratufuckinglations; COUNT 1
+1 UNIQUE WORDS BEFORE: [('medals', 1)]
+0 UNIQUE WORDS AFTER: []
+SWEAR WORD: friggin; COUNT 1
+1 UNIQUE WORDS BEFORE: [('this', 1)]
+1 UNIQUE WORDS AFTER: [('awesome', 1)]
+SWEAR WORD: bastardway; COUNT 1
+1 UNIQUE WORDS BEFORE: [('damn', 1)]
+1 UNIQUE WORDS AFTER: [('to', 1)]

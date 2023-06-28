@@ -1,0 +1,270 @@
+SWEAR WORD: shit; COUNT 62
+38 UNIQUE WORDS BEFORE: [('a', 11), ('my', 5), ('the', 4), ('their', 3), ('that', 3), ('of', 2), ('and', 2), ('expensive', 1), ('cheap', 1), ('holy', 1), ('up', 1), ('as', 1), ('old', 1), ('getting', 1), ('catch', 1), ('oh', 1), ('eating', 1), ('throwing', 1), ('throw', 1), ('whatever', 1), ('talking', 1), ('mma', 1), ('weird', 1), ('your', 1), ('such', 1), ('for', 1), ('these', 1), ('with', 1), ('tune', 1), ('this', 1), ('more', 1), ('tvs', 1), ('when', 1), ('offtherack', 1), ('always', 1), ('taking', 1), ('gained', 1), ('people', 1)]
+39 UNIQUE WORDS AFTER: [('about', 5), ('i', 4), ('and', 4), ('from', 3), ('', 3), ('on', 2), ('to', 2), ('at', 2), ('all', 2), ('comes', 2), ('together', 2), ('that', 2), ('is', 2), ('both', 1), ('off', 1), ('trump', 1), ('youve', 1), ('if', 1), ('came', 1), ('these', 1), ('kicked', 1), ('doesnt', 1), ('which', 1), ('as', 1), ('but', 1), ('education', 1), ('you', 1), ('around', 1), ('out', 1), ('figured', 1), ('how', 1), ('for', 1), ('pay', 1), ('everyday', 1), ('in', 1), ('a', 1), ('hits', 1), ('before', 1), ('or', 1)]
+SWEAR WORD: fuck; COUNT 32
+16 UNIQUE WORDS BEFORE: [('the', 7), ('a', 4), ('as', 3), ('to', 2), ('pity', 1), ('so', 1), ('', 1), ('labor', 1), ('party', 1), ('go', 1), ('and', 1), ('work', 1), ('me', 1), ('big', 1), ('will', 1), ('anyway', 1)]
+24 UNIQUE WORDS AFTER: [('to', 2), ('a', 2), ('its', 2), ('it', 2), ('you', 2), ('pretending', 1), ('is', 1), ('leading', 1), ('off', 1), ('what', 1), ('no', 1), ('some', 1), ('away', 1), ('any', 1), ('me', 1), ('can', 1), ('at', 1), ('by', 1), ('outta', 1), ('up', 1), ('ton', 1), ('em', 1), ('their', 1), ('would', 1)]
+SWEAR WORD: hell; COUNT 22
+12 UNIQUE WORDS BEFORE: [('the', 5), ('as', 3), ('to', 2), ('a', 2), ('college', 1), ('whole', 1), ('is', 1), ('in', 1), ('things', 1), ('pass', 1), ('more', 1), ('outlet', 1)]
+20 UNIQUE WORDS AFTER: [('in', 2), ('of', 2), ('even', 1), ('dont', 1), ('yea', 1), ('yeah', 1), ('does', 1), ('marriage', 1), ('on', 1), ('up', 1), ('youre', 1), ('', 1), ('im', 1), ('not', 1), ('have', 1), ('let', 1), ('i', 1), ('move', 1), ('because', 1), ('off', 1)]
+SWEAR WORD: fucking; COUNT 21
+17 UNIQUE WORDS BEFORE: [('you', 2), ('no', 2), ('so', 2), ('dont', 2), ('still', 1), ('stupidest', 1), ('feel', 1), ('and', 1), ('is', 1), ('fight', 1), ('thats', 1), ('was', 1), ('decreasedecline', 1), ('getbpretty', 1), ('i', 1), ('its', 1), ('keep', 1)]
+21 UNIQUE WORDS AFTER: [('stoic', 1), ('know', 1), ('skills', 1), ('fake', 1), ('terrible', 1), ('creepy', 1), ('off', 1), ('blame', 1), ('reason', 1), ('magnificent', 1), ('true', 1), ('aging', 1), ('brilliant', 1), ('want', 1), ('inspired', 1), ('do', 1), ('rock', 1), ('good', 1), ('hated', 1), ('everywhere', 1), ('going', 1)]
+SWEAR WORD: ass; COUNT 16
+11 UNIQUE WORDS BEFORE: [('my', 5), ('the', 2), ('your', 1), ('silly', 1), ('and', 1), ('cheap', 1), ('dope', 1), ('hot', 1), ('their', 1), ('long', 1), ('some', 1)]
+13 UNIQUE WORDS AFTER: [('', 2), ('in', 2), ('fall', 1), ('until', 1), ('off', 1), ('because', 1), ('person', 1), ('41st', 1), ('arizona', 1), ('to', 1), ('for', 1), ('time', 1), ('and', 1)]
+SWEAR WORD: damn; COUNT 14
+11 UNIQUE WORDS BEFORE: [('so', 2), ('a', 2), ('these', 1), ('pretty', 1), ('', 1), ('thats', 1), ('red', 1), ('make', 1), ('too', 1), ('move', 1), ('your', 1)]
+13 UNIQUE WORDS AFTER: [('good', 2), ('satisfying', 1), ('eyeglass', 1), ('dude', 1), ('big', 1), ('at', 1), ('wedding', 1), ('right', 1), ('sure', 1), ('much', 1), ('bag', 1), ('the', 1), ('vitamins', 1)]
+SWEAR WORD: shitty; COUNT 12
+9 UNIQUE WORDS BEFORE: [('a', 3), ('really', 2), ('the', 1), ('such', 1), ('especially', 1), ('still', 1), ('those', 1), ('boring', 1), ('doing', 1)]
+10 UNIQUE WORDS AFTER: [('aluminum', 1), ('birthday', 1), ('and', 1), ('for', 1), ('life', 1), ('toxic', 1), ('things', 1), ('stuff', 1), ('jobs', 1), ('tiny', 1)]
+SWEAR WORD: classes; COUNT 12
+12 UNIQUE WORDS BEFORE: [('dance', 1), ('join', 1), ('in', 1), ('take', 1), ('activities', 1), ('online', 1), ('art', 1), ('theoryproduction', 1), ('of', 1), ('any', 1), ('groups', 1), ('fitness', 1)]
+10 UNIQUE WORDS AFTER: [('or', 2), ('and', 2), ('support', 1), ('work', 1), ('pick', 1), ('', 1), ('i', 1), ('per', 1), ('for', 1), ('looking', 1)]
+SWEAR WORD: pass; COUNT 12
+11 UNIQUE WORDS BEFORE: [('and', 2), ('easily', 1), ('fast', 1), ('annual', 1), ('couldnt', 1), ('ill', 1), ('a', 1), ('not', 1), ('shall', 1), ('will', 1), ('parents', 1)]
+11 UNIQUE WORDS AFTER: [('as', 1), ('you', 1), ('why', 1), ('up', 1), ('them', 1), ('it', 1), ('the', 1), ('time', 1), ('', 1), ('before', 1), ('hell', 1)]
+SWEAR WORD: classic; COUNT 9
+7 UNIQUE WORDS BEFORE: [('and', 3), ('buy', 1), ('some', 1), ('like', 1), ('everything', 1), ('really', 1), ('a', 1)]
+6 UNIQUE WORDS AFTER: [('rock', 4), ('cars', 1), ('music', 1), ('gems', 1), ('stuff', 1), ('symptom', 1)]
+SWEAR WORD: passed; COUNT 8
+8 UNIQUE WORDS BEFORE: [('mom', 1), ('fast', 1), ('ive', 1), ('i', 1), ('have', 1), ('it', 1), ('cousin', 1), ('be', 1)]
+8 UNIQUE WORDS AFTER: [('in', 1), ('them', 1), ('the', 1), ('right', 1), ('you', 1), ('i', 1), ('away', 1), ('on', 1)]
+SWEAR WORD: class; COUNT 7
+7 UNIQUE WORDS BEFORE: [('upper', 1), ('the', 1), ('your', 1), ('working', 1), ('of', 1), ('computer', 1), ('a', 1)]
+4 UNIQUE WORDS AFTER: [('and', 2), ('family', 1), ('gene', 1), ('during', 1)]
+SWEAR WORD: fucked; COUNT 7
+6 UNIQUE WORDS BEFORE: [('still', 2), ('some', 1), ('one', 1), ('is', 1), ('absolutely', 1), ('you', 1)]
+5 UNIQUE WORDS AFTER: [('up', 3), ('etc', 1), ('but', 1), ('even', 1), ('in', 1)]
+SWEAR WORD: jesus; COUNT 5
+3 UNIQUE WORDS BEFORE: [('35', 1), ('', 1), ('found', 1)]
+4 UNIQUE WORDS AFTER: [('', 1), ('i', 1), ('fella', 1), ('at', 1)]
+SWEAR WORD: shell; COUNT 5
+4 UNIQUE WORDS BEFORE: [('and', 2), ('minute', 1), ('a', 1), ('the', 1)]
+5 UNIQUE WORDS AFTER: [('be', 1), ('try', 1), ('there', 1), ('of', 1), ('ask', 1)]
+SWEAR WORD: glass; COUNT 5
+3 UNIQUE WORDS BEFORE: [('stained', 3), ('old', 1), ('tiffany', 1)]
+5 UNIQUE WORDS AFTER: [('when', 1), ('window', 1), ('to', 1), ('dont', 1), ('things', 1)]
+SWEAR WORD: classical; COUNT 4
+4 UNIQUE WORDS BEFORE: [('the', 1), ('to', 1), ('instrumental', 1), ('and', 1)]
+2 UNIQUE WORDS AFTER: [('music', 3), ('piano', 1)]
+SWEAR WORD: assume; COUNT 4
+3 UNIQUE WORDS BEFORE: [('i', 2), ('typically', 1), ('dont', 1)]
+3 UNIQUE WORDS AFTER: [('they', 2), ('a', 1), ('based', 1)]
+SWEAR WORD: massive; COUNT 4
+4 UNIQUE WORDS BEFORE: [('pretty', 1), ('all', 1), ('anything', 1), ('yourself', 1)]
+4 UNIQUE WORDS AFTER: [('collection', 1), ('games', 1), ('eg', 1), ('dividends', 1)]
+SWEAR WORD: mass; COUNT 3
+2 UNIQUE WORDS BEFORE: [('', 2), ('the', 1)]
+2 UNIQUE WORDS AFTER: [('edited', 2), ('effect', 1)]
+SWEAR WORD: asshole; COUNT 3
+3 UNIQUE WORDS BEFORE: [('center', 1), ('privileged', 1), ('an', 1)]
+2 UNIQUE WORDS AFTER: [('but', 1), ('and', 1)]
+SWEAR WORD: saturday; COUNT 3
+2 UNIQUE WORDS BEFORE: [('on', 2), ('chocula', 1)]
+2 UNIQUE WORDS AFTER: [('mornings', 2), ('morning', 1)]
+SWEAR WORD: bullshit; COUNT 3
+3 UNIQUE WORDS BEFORE: [('much', 1), ('or', 1), ('the', 1)]
+3 UNIQUE WORDS AFTER: [('for', 1), ('', 1), ('the', 1)]
+SWEAR WORD: assistance; COUNT 3
+3 UNIQUE WORDS BEFORE: [('government', 1), ('financial', 1), ('payment', 1)]
+3 UNIQUE WORDS AFTER: [('has', 1), ('from', 1), ('programs', 1)]
+SWEAR WORD: halfassed; COUNT 3
+2 UNIQUE WORDS BEFORE: [('felt', 2), ('was', 1)]
+3 UNIQUE WORDS AFTER: [('or', 1), ('because', 1), ('and', 1)]
+SWEAR WORD: glasses; COUNT 3
+3 UNIQUE WORDS BEFORE: [('my', 1), ('ar', 1), ('the', 1)]
+3 UNIQUE WORDS AFTER: [('its', 1), ('to', 1), ('of', 1)]
+SWEAR WORD: assumed; COUNT 3
+3 UNIQUE WORDS BEFORE: [('i', 1), ('always', 1), ('just', 1)]
+3 UNIQUE WORDS AFTER: [('id', 1), ('they', 1), ('it', 1)]
+SWEAR WORD: passion; COUNT 3
+2 UNIQUE WORDS BEFORE: [('and', 2), ('my', 1)]
+2 UNIQUE WORDS AFTER: [('for', 1), ('now', 1)]
+SWEAR WORD: badass; COUNT 2
+2 UNIQUE WORDS BEFORE: [('look', 1), ('a', 1)]
+2 UNIQUE WORDS AFTER: [('for', 1), ('', 1)]
+SWEAR WORD: classics; COUNT 2
+2 UNIQUE WORDS BEFORE: [('the', 1), ('and', 1)]
+1 UNIQUE WORDS AFTER: [('like', 1)]
+SWEAR WORD: bitches; COUNT 2
+2 UNIQUE WORDS BEFORE: [('of', 1), ('because', 1)]
+2 UNIQUE WORDS AFTER: [('that', 1), ('be', 1)]
+SWEAR WORD: classmates; COUNT 2
+2 UNIQUE WORDS BEFORE: [('something', 1), ('my', 1)]
+2 UNIQUE WORDS AFTER: [('complain', 1), ('', 1)]
+SWEAR WORD: passionate; COUNT 2
+2 UNIQUE WORDS BEFORE: [('grand', 1), ('and', 1)]
+2 UNIQUE WORDS AFTER: [('lovers', 1), ('opinions', 1)]
+SWEAR WORD: passing; COUNT 2
+2 UNIQUE WORDS BEFORE: [('any', 1), ('every', 1)]
+2 UNIQUE WORDS AFTER: [('thought', 1), ('year', 1)]
+SWEAR WORD: assumption; COUNT 2
+2 UNIQUE WORDS BEFORE: [('my', 1), ('an', 1)]
+2 UNIQUE WORDS AFTER: [('like', 1), ('choosing', 1)]
+SWEAR WORD: assure; COUNT 2
+2 UNIQUE WORDS BEFORE: [('just', 1), ('can', 1)]
+1 UNIQUE WORDS AFTER: [('you', 2)]
+SWEAR WORD: goddamn; COUNT 2
+2 UNIQUE WORDS BEFORE: [('all', 1), ('and', 1)]
+2 UNIQUE WORDS AFTER: [('day', 1), ('i', 1)]
+SWEAR WORD: pissed; COUNT 2
+1 UNIQUE WORDS BEFORE: [('get', 2)]
+1 UNIQUE WORDS AFTER: [('off', 2)]
+SWEAR WORD: passes; COUNT 2
+2 UNIQUE WORDS BEFORE: [('it', 1), ('mom', 1)]
+2 UNIQUE WORDS AFTER: [('and', 1), ('away', 1)]
+SWEAR WORD: fuckin; COUNT 2
+2 UNIQUE WORDS BEFORE: [('im', 1), ('that', 1)]
+2 UNIQUE WORDS AFTER: [('considering', 1), ('sucks', 1)]
+SWEAR WORD: assuming; COUNT 2
+2 UNIQUE WORDS BEFORE: [('know', 1), ('what', 1)]
+2 UNIQUE WORDS AFTER: [('they', 1), ('does', 1)]
+SWEAR WORD: damned; COUNT 2
+2 UNIQUE WORDS BEFORE: [('its', 1), ('pretty', 1)]
+2 UNIQUE WORDS AFTER: [('hard', 1), ('sad', 1)]
+SWEAR WORD: whores; COUNT 1
+1 UNIQUE WORDS BEFORE: [('karma', 1)]
+0 UNIQUE WORDS AFTER: []
+SWEAR WORD: fanwankery; COUNT 1
+1 UNIQUE WORDS BEFORE: [('properties', 1)]
+1 UNIQUE WORDS AFTER: [('is', 1)]
+SWEAR WORD: eyeglass; COUNT 1
+1 UNIQUE WORDS BEFORE: [('damn', 1)]
+1 UNIQUE WORDS AFTER: [('frameshttpsimgurcomaxpjcvhr', 1)]
+SWEAR WORD: eyeglasses; COUNT 1
+1 UNIQUE WORDS BEFORE: [('killer', 1)]
+1 UNIQUE WORDS AFTER: [('', 1)]
+SWEAR WORD: shithole; COUNT 1
+1 UNIQUE WORDS BEFORE: [('employment', 1)]
+1 UNIQUE WORDS AFTER: [('i', 1)]
+SWEAR WORD: assignment; COUNT 1
+1 UNIQUE WORDS BEFORE: [('job', 1)]
+1 UNIQUE WORDS AFTER: [('i', 1)]
+SWEAR WORD: massively; COUNT 1
+1 UNIQUE WORDS BEFORE: [('its', 1)]
+1 UNIQUE WORDS AFTER: [('overrated', 1)]
+SWEAR WORD: classrooms; COUNT 1
+1 UNIQUE WORDS BEFORE: [('trailer', 1)]
+1 UNIQUE WORDS AFTER: [('in', 1)]
+SWEAR WORD: classwork; COUNT 1
+1 UNIQUE WORDS BEFORE: [('or', 1)]
+1 UNIQUE WORDS AFTER: [('or', 1)]
+SWEAR WORD: associated; COUNT 1
+1 UNIQUE WORDS BEFORE: [('be', 1)]
+1 UNIQUE WORDS AFTER: [('with', 1)]
+SWEAR WORD: cassette; COUNT 1
+1 UNIQUE WORDS BEFORE: [('his', 1)]
+1 UNIQUE WORDS AFTER: [('collection', 1)]
+SWEAR WORD: assistant; COUNT 1
+1 UNIQUE WORDS BEFORE: [('our', 1)]
+1 UNIQUE WORDS AFTER: [('loves', 1)]
+SWEAR WORD: passage; COUNT 1
+1 UNIQUE WORDS BEFORE: [('the', 1)]
+1 UNIQUE WORDS AFTER: [('of', 1)]
+SWEAR WORD: shitloads; COUNT 1
+1 UNIQUE WORDS BEFORE: [('gaining', 1)]
+1 UNIQUE WORDS AFTER: [('of', 1)]
+SWEAR WORD: passive; COUNT 1
+1 UNIQUE WORDS BEFORE: [('off', 1)]
+1 UNIQUE WORDS AFTER: [('aggressive', 1)]
+SWEAR WORD: sunglasses; COUNT 1
+1 UNIQUE WORDS BEFORE: [('and', 1)]
+0 UNIQUE WORDS AFTER: []
+SWEAR WORD: wwwglassdoorcom; COUNT 1
+0 UNIQUE WORDS BEFORE: []
+1 UNIQUE WORDS AFTER: [('is', 1)]
+SWEAR WORD: asset; COUNT 1
+1 UNIQUE WORDS BEFORE: [('appreciating', 1)]
+1 UNIQUE WORDS AFTER: [('where', 1)]
+SWEAR WORD: bluegrass; COUNT 1
+1 UNIQUE WORDS BEFORE: [('greensky', 1)]
+1 UNIQUE WORDS AFTER: [('moe', 1)]
+SWEAR WORD: potassium; COUNT 1
+1 UNIQUE WORDS BEFORE: [('special', 1)]
+1 UNIQUE WORDS AFTER: [('the', 1)]
+SWEAR WORD: assoc; COUNT 1
+1 UNIQUE WORDS BEFORE: [('green', 1)]
+1 UNIQUE WORDS AFTER: [('filofack', 1)]
+SWEAR WORD: assassins; COUNT 1
+1 UNIQUE WORDS BEFORE: [('into', 1)]
+1 UNIQUE WORDS AFTER: [('creed', 1)]
+SWEAR WORD: fucks; COUNT 1
+1 UNIQUE WORDS BEFORE: [('my', 1)]
+1 UNIQUE WORDS AFTER: [('lay', 1)]
+SWEAR WORD: shits; COUNT 1
+1 UNIQUE WORDS BEFORE: [('a', 1)]
+1 UNIQUE WORDS AFTER: [('', 1)]
+SWEAR WORD: bitching; COUNT 1
+1 UNIQUE WORDS BEFORE: [('just', 1)]
+1 UNIQUE WORDS AFTER: [('and', 1)]
+SWEAR WORD: assisted; COUNT 1
+1 UNIQUE WORDS BEFORE: [('chemically', 1)]
+1 UNIQUE WORDS AFTER: [('simulation', 1)]
+SWEAR WORD: hellish; COUNT 1
+1 UNIQUE WORDS BEFORE: [('a', 1)]
+1 UNIQUE WORDS AFTER: [('situation', 1)]
+SWEAR WORD: shittier; COUNT 1
+1 UNIQUE WORDS BEFORE: [('getting', 1)]
+1 UNIQUE WORDS AFTER: [('cause', 1)]
+SWEAR WORD: disassociate; COUNT 1
+1 UNIQUE WORDS BEFORE: [('to', 1)]
+1 UNIQUE WORDS AFTER: [('for', 1)]
+SWEAR WORD: disassociating; COUNT 1
+1 UNIQUE WORDS BEFORE: [('of', 1)]
+1 UNIQUE WORDS AFTER: [('is', 1)]
+SWEAR WORD: compassionate; COUNT 1
+1 UNIQUE WORDS BEFORE: [('is', 1)]
+1 UNIQUE WORDS AFTER: [('but', 1)]
+SWEAR WORD: assholesbut; COUNT 1
+1 UNIQUE WORDS BEFORE: [('', 1)]
+1 UNIQUE WORDS AFTER: [('they', 1)]
+SWEAR WORD: fuckall; COUNT 1
+1 UNIQUE WORDS BEFORE: [('absolutely', 1)]
+0 UNIQUE WORDS AFTER: []
+SWEAR WORD: passions; COUNT 1
+1 UNIQUE WORDS BEFORE: [('my', 1)]
+1 UNIQUE WORDS AFTER: [('and', 1)]
+SWEAR WORD: dumbass; COUNT 1
+1 UNIQUE WORDS BEFORE: [('us', 1)]
+1 UNIQUE WORDS AFTER: [('selfsabotaging', 1)]
+SWEAR WORD: unfuck; COUNT 1
+1 UNIQUE WORDS BEFORE: [('and', 1)]
+1 UNIQUE WORDS AFTER: [('it', 1)]
+SWEAR WORD: assured; COUNT 1
+1 UNIQUE WORDS BEFORE: [('self', 1)]
+1 UNIQUE WORDS AFTER: [('as', 1)]
+SWEAR WORD: fucker; COUNT 1
+1 UNIQUE WORDS BEFORE: [('ol', 1)]
+0 UNIQUE WORDS AFTER: []
+SWEAR WORD: fuckups; COUNT 1
+1 UNIQUE WORDS BEFORE: [('their', 1)]
+1 UNIQUE WORDS AFTER: [('and', 1)]
+SWEAR WORD: shitless; COUNT 1
+1 UNIQUE WORDS BEFORE: [('me', 1)]
+1 UNIQUE WORDS AFTER: [('the', 1)]
+SWEAR WORD: associates; COUNT 1
+1 UNIQUE WORDS BEFORE: [('an', 1)]
+1 UNIQUE WORDS AFTER: [('at', 1)]
+SWEAR WORD: motherfucker; COUNT 1
+1 UNIQUE WORDS BEFORE: [('no', 1)]
+1 UNIQUE WORDS AFTER: [('now', 1)]
+SWEAR WORD: dick; COUNT 1
+1 UNIQUE WORDS BEFORE: [('a', 1)]
+1 UNIQUE WORDS AFTER: [('but', 1)]
+SWEAR WORD: hello; COUNT 1
+0 UNIQUE WORDS BEFORE: []
+1 UNIQUE WORDS AFTER: [('fellow', 1)]
+SWEAR WORD: harass; COUNT 1
+1 UNIQUE WORDS BEFORE: [('to', 1)]
+1 UNIQUE WORDS AFTER: [('and', 1)]
+SWEAR WORD: pisses; COUNT 1
+1 UNIQUE WORDS BEFORE: [('it', 1)]
+1 UNIQUE WORDS AFTER: [('my', 1)]
+SWEAR WORD: arse; COUNT 1
+1 UNIQUE WORDS BEFORE: [('my', 1)]
+1 UNIQUE WORDS AFTER: [('given', 1)]
+SWEAR WORD: jurassic; COUNT 1
+1 UNIQUE WORDS BEFORE: [('with', 1)]
+1 UNIQUE WORDS AFTER: [('park', 1)]
